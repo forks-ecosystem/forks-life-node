@@ -1,0 +1,55 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+.AppleDouble
+.LSOverride
+*.swp
+*.swo
+*~
+
+# Text Editor Temporary Files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+*~.nib
+.project
+.pydevproject
+.settings/
+
+# System Files
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+desktop.ini
+
+# Node (if applicable in future)
+node_modules/
+.npm
+
+# Python (if applicable in future)
+__pycache__/
+*.py[cod]
+.pytest_cache/
+venv/
+env/
+
+# Build artifacts (language-agnostic)
+build/
+dist/
+*.o
+*.a
+*.so
+
+# Logs
+*.log
+logs/
+
+# Credentials and secrets
+credentials.env
+.env
+.env.local
+
+# Application runtime
+/var/www/html/fork/db/
+/var/www/utx/
